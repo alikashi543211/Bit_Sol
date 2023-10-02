@@ -44,7 +44,7 @@ import { JobHelpComponent } from './sb2_admin/pages/job-help/job-help.component'
 const routes: Routes = [
     {
         path: '',
-        redirectTo: '/sb2_dashboard',
+        redirectTo: '/sb2_dashboard/companies/bit_sol',
         pathMatch: 'full'
     },
     {
